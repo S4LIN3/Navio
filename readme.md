@@ -1,6 +1,8 @@
 # 🌟 Navio – Your Evolving Life Companion
 
-Navio is an AI-powered personal life assistant designed to help you manage mental health, boost productivity, nurture relationships, and grow in all areas of life. Think of it as a digital companion that evolves with you.
+**Navio** is an AI-powered personal life assistant designed to help you manage mental health, boost productivity, nurture relationships, and grow in all areas of life. Think of it as a digital companion that evolves with you.
+
+---
 
 ## 🔑 Key Features
 
@@ -22,6 +24,8 @@ Navio is an AI-powered personal life assistant designed to help you manage menta
 - **Financial Planning**  
   Smart budgeting advice and savings suggestions based on your habits and future goals.
 
+---
+
 ## 🚀 How It Works
 
 1. **Sign-Up + Initial Assessment**  
@@ -33,9 +37,12 @@ Navio is an AI-powered personal life assistant designed to help you manage menta
 3. **Review & Adjust**  
    Weekly and monthly summaries help refine your plan with dynamic support.
 
+---
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
+
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
